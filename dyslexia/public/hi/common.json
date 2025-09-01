@@ -1,0 +1,21 @@
+{
+    "game_title": "तुकबंदी दौड़",
+    "round_progress": "राउंड प्रगति",
+    "current_level": "वर्तमान स्तर",
+    "round_score": "राउंड स्कोर",
+    "correct": "सही!",
+    "try_again": "पुनः प्रयास करें!",
+    "finish_game": "खेल से बाहर निकलें",
+    "learning_progress": "सीखने की प्रगति",
+    "overall_stats": "समग्र आंकड़े",
+    "total_score": "कुल स्कोर",
+    "accuracy": "सटीकता",
+    "current_round": "वर्तमान राउंड",
+    "score": "स्कोर",
+    "progress_chart": "प्रगति चार्ट",
+    "english": "अंग्रेज़ी",
+    "hindi": "हिंदी",
+    "easy": "आसान",
+    "medium": "मध्यम",
+    "hard": "कठिन"
+}
